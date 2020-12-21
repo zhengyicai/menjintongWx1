@@ -1,0 +1,13 @@
+/* pages/lockList/lockList.wxss */
+.one{
+  padding:5px 5px;
+
+}
+.two{
+  padding:5px 5px;
+  text-align: center;
+}
+.three{
+  padding:5px 5px;
+  text-align: center;
+}

@@ -1,0 +1,9 @@
+
+<view class="my-item" style="height:60px;line-height:60px;margin-top:10px" > 
+   <view bindtap="changeAvatar">
+        <button formType="submit" disabled="{{disabled1}}" style="background-color:#66bc95; color:white;width:300px;margin-top:20px;border-radius:5px;">点击上传本人人脸</button>
+    </view>
+     <view class="language" style="text-align:center;padding-top:30px;">
+    <image  class="userinfo-avatar" mode='widthFix' style="width:90%;" src="{{avatar}}" background-size="cover"></image> 
+  </view>
+</view>
